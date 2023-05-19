@@ -1,3 +1,5 @@
 aioredis==2.0.1
 
 python-telegram-bot==20.2
+aiohttp-apispec==2.2.3
+marshmallow==3.18.0
